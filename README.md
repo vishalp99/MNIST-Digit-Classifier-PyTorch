@@ -96,7 +96,7 @@ jupyter notebook
 
 ---
 
-## Assignment Summary
+## Summary
 
 This project demonstrates key concepts in:
 
